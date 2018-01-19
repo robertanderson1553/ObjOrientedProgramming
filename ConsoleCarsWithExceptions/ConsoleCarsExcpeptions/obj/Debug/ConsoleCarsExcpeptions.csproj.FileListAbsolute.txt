@@ -1,0 +1,67 @@
+c:\users\kurt.friedrich\documents\visual studio 2012\Projects\ConsoleCarsExcpeptions\ConsoleCarsExcpeptions\bin\Debug\ConsoleCarsExcpeptions.exe.config
+c:\users\kurt.friedrich\documents\visual studio 2012\Projects\ConsoleCarsExcpeptions\ConsoleCarsExcpeptions\obj\Debug\ConsoleCarsExcpeptions.csprojResolveAssemblyReference.cache
+c:\users\kurt.friedrich\documents\visual studio 2012\Projects\ConsoleCarsExcpeptions\ConsoleCarsExcpeptions\bin\Debug\ConsoleCarsExcpeptions.exe
+c:\users\kurt.friedrich\documents\visual studio 2012\Projects\ConsoleCarsExcpeptions\ConsoleCarsExcpeptions\bin\Debug\ConsoleCarsExcpeptions.pdb
+c:\users\kurt.friedrich\documents\visual studio 2012\Projects\ConsoleCarsExcpeptions\ConsoleCarsExcpeptions\bin\Debug\ClassLibrary1.dll
+c:\users\kurt.friedrich\documents\visual studio 2012\Projects\ConsoleCarsExcpeptions\ConsoleCarsExcpeptions\bin\Debug\ClassLibrary1.pdb
+c:\users\kurt.friedrich\documents\visual studio 2012\Projects\ConsoleCarsExcpeptions\ConsoleCarsExcpeptions\obj\Debug\ConsoleCarsExcpeptions.exe
+c:\users\kurt.friedrich\documents\visual studio 2012\Projects\ConsoleCarsExcpeptions\ConsoleCarsExcpeptions\obj\Debug\ConsoleCarsExcpeptions.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod06-exceptions\exceptionHandling\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\bin\Debug\ConsoleCarsExcpeptions.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod06-exceptions\exceptionHandling\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\obj\Debug\ConsoleCarsExcpeptions.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod06-exceptions\exceptionHandling\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\obj\Debug\ConsoleCarsExcpeptions.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod06-exceptions\exceptionHandling\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\bin\Debug\ConsoleCarsExcpeptions.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod06-exceptions\exceptionHandling\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\bin\Debug\ConsoleCarsExcpeptions.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod06-exceptions\exceptionHandling\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\bin\Debug\ClassLibrary1.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod06-exceptions\exceptionHandling\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\bin\Debug\ClassLibrary1.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod06-exceptions\exceptionHandling\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\obj\Debug\ConsoleCarsExcpeptions.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod06-exceptions\exceptionHandling\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\bin\Debug\ConsoleCarsExcpeptions.exe.config
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod06-exceptions\exceptionHandling\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\bin\Debug\ConsoleCarsExcpeptions.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod06-exceptions\exceptionHandling\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\bin\Debug\ConsoleCarsExcpeptions.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod06-exceptions\exceptionHandling\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\bin\Debug\ClassLibrary1.dll
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod06-exceptions\exceptionHandling\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\bin\Debug\ClassLibrary1.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod06-exceptions\exceptionHandling\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\obj\Debug\ConsoleCarsExcpeptions.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod06-exceptions\exceptionHandling\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\obj\Debug\ConsoleCarsExcpeptions.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod06-exceptions\exceptionHandling\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\obj\Debug\ConsoleCarsExcpeptions.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod06-exceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\bin\Debug\ConsoleCarsExcpeptions.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod06-exceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\obj\Debug\ConsoleCarsExcpeptions.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod06-exceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\obj\Debug\ConsoleCarsExcpeptions.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod06-exceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\bin\Debug\ConsoleCarsExcpeptions.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod06-exceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\bin\Debug\ConsoleCarsExcpeptions.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod06-exceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\bin\Debug\ClassLibrary1.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod06-exceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\bin\Debug\ClassLibrary1.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod06-exceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\obj\Debug\ConsoleCarsExcpeptions.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod06-exceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\bin\Debug\ConsoleCarsExcpeptions.exe.config
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod06-exceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\obj\Debug\ConsoleCarsExcpeptions.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod06-exceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\obj\Debug\ConsoleCarsExcpeptions.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A2AA-Prog120-winter-2015\Mod06-exceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\bin\Debug\ConsoleCarsExcpeptions.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A2AA-Prog120-winter-2015\Mod06-exceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\obj\Debug\ConsoleCarsExcpeptions.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A2AA-Prog120-winter-2015\Mod06-exceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\obj\Debug\ConsoleCarsExcpeptions.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A2AA-Prog120-winter-2015\Mod06-exceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\bin\Debug\ConsoleCarsExcpeptions.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A2AA-Prog120-winter-2015\Mod06-exceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\bin\Debug\ConsoleCarsExcpeptions.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A2AA-Prog120-winter-2015\Mod06-exceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\bin\Debug\ClassLibrary1.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A2AA-Prog120-winter-2015\Mod06-exceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\bin\Debug\ClassLibrary1.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A2AA-Prog120-winter-2015\Mod06-exceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\obj\Debug\ConsoleCarsExcpeptions.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Winter2017\Prog-120-Winter2017\Mod06-exceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\bin\Debug\ConsoleCarsExcpeptions.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-Winter2017\Prog-120-Winter2017\Mod06-exceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\obj\Debug\ConsoleCarsExcpeptions.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Winter2017\Prog-120-Winter2017\Mod06-exceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\obj\Debug\ConsoleCarsExcpeptions.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Fall-17\Mod06-exceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\bin\Debug\ConsoleCarsExcpeptions.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Fall-17\Mod06-exceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\bin\Debug\ConsoleCarsExcpeptions.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Fall-17\Mod06-exceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\bin\Debug\ConsoleCarsExcpeptions.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Fall-17\Mod06-exceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\bin\Debug\ClassLibrary1.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Fall-17\Mod06-exceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\bin\Debug\ClassLibrary1.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Fall-17\Mod06-exceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\obj\Debug\ConsoleCarsExcpeptions.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Fall-17\Mod06-exceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\obj\Debug\ConsoleCarsExcpeptions.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Fall-17\Mod06-exceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\obj\Debug\ConsoleCarsExcpeptions.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Fall-17\Mod06-exceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\obj\Debug\ConsoleCarsExcpeptions.pdb
+E:\BCWebDev\Prog120\Assignments\HW-2 Exceptions\ConsoleCarsNoExceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\bin\Debug\ConsoleCarsExcpeptions.exe.config
+E:\BCWebDev\Prog120\Assignments\HW-2 Exceptions\ConsoleCarsNoExceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\bin\Debug\ConsoleCarsExcpeptions.exe
+E:\BCWebDev\Prog120\Assignments\HW-2 Exceptions\ConsoleCarsNoExceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\bin\Debug\ConsoleCarsExcpeptions.pdb
+E:\BCWebDev\Prog120\Assignments\HW-2 Exceptions\ConsoleCarsNoExceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\bin\Debug\ClassLibrary1.dll
+E:\BCWebDev\Prog120\Assignments\HW-2 Exceptions\ConsoleCarsNoExceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\bin\Debug\ClassLibrary1.pdb
+E:\BCWebDev\Prog120\Assignments\HW-2 Exceptions\ConsoleCarsNoExceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\obj\Debug\ConsoleCarsExcpeptions.csprojResolveAssemblyReference.cache
+E:\BCWebDev\Prog120\Assignments\HW-2 Exceptions\ConsoleCarsNoExceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\obj\Debug\ConsoleCarsExcpeptions.csproj.CoreCompileInputs.cache
+E:\BCWebDev\Prog120\Assignments\HW-2 Exceptions\ConsoleCarsNoExceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\obj\Debug\ConsoleCarsExcpeptions.exe
+E:\BCWebDev\Prog120\Assignments\HW-2 Exceptions\ConsoleCarsNoExceptions\ConsoleCarsNoExceptions\ConsoleCarsExcpeptions\obj\Debug\ConsoleCarsExcpeptions.pdb
+E:\BCWebDev\Prog120\Assignments\HW-2 Exceptions\ConsoleCarsWithExceptions\ConsoleCarsExcpeptions\bin\Debug\ConsoleCarsExcpeptions.exe.config
+E:\BCWebDev\Prog120\Assignments\HW-2 Exceptions\ConsoleCarsWithExceptions\ConsoleCarsExcpeptions\obj\Debug\ConsoleCarsExcpeptions.exe
+E:\BCWebDev\Prog120\Assignments\HW-2 Exceptions\ConsoleCarsWithExceptions\ConsoleCarsExcpeptions\obj\Debug\ConsoleCarsExcpeptions.pdb
