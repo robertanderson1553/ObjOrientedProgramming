@@ -1,0 +1,20 @@
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\PokerProject\PokerProject\bin\Debug\PokerProject.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-Winter2017\Prog-120-Winter2017\Mod09- enums\PokerProject\PokerProject\bin\Debug\PokerProject.exe.config
+E:\BCWebDev\Prog120\Assignments\HW5 Course Project Build the deck\PokerProjectStart\PokerProjectStart\PokerProject\bin\Debug\PokerProject.exe.config
+E:\BCWebDev\Prog120\Assignments\HW5 Course Project Build the deck\PokerProjectStart\PokerProjectStart\PokerProject\bin\Debug\PokerProject.exe
+E:\BCWebDev\Prog120\Assignments\HW5 Course Project Build the deck\PokerProjectStart\PokerProjectStart\PokerProject\bin\Debug\PokerProject.pdb
+E:\BCWebDev\Prog120\Assignments\HW5 Course Project Build the deck\PokerProjectStart\PokerProjectStart\PokerProject\bin\Debug\CardLibrary.dll
+E:\BCWebDev\Prog120\Assignments\HW5 Course Project Build the deck\PokerProjectStart\PokerProjectStart\PokerProject\bin\Debug\CardLibrary.pdb
+E:\BCWebDev\Prog120\Assignments\HW5 Course Project Build the deck\PokerProjectStart\PokerProjectStart\PokerProject\obj\Debug\PokerProject.csprojResolveAssemblyReference.cache
+E:\BCWebDev\Prog120\Assignments\HW5 Course Project Build the deck\PokerProjectStart\PokerProjectStart\PokerProject\obj\Debug\PokerProject.csproj.CoreCompileInputs.cache
+E:\BCWebDev\Prog120\Assignments\HW5 Course Project Build the deck\PokerProjectStart\PokerProjectStart\PokerProject\obj\Debug\PokerProject.exe
+E:\BCWebDev\Prog120\Assignments\HW5 Course Project Build the deck\PokerProjectStart\PokerProjectStart\PokerProject\obj\Debug\PokerProject.pdb
+C:\Users\Anderson\source\repos\Assignment6\PokerProjectStart\PokerProjectStart\PokerProjectStart\PokerProject\bin\Debug\PokerProject.exe.config
+C:\Users\Anderson\source\repos\Assignment6\PokerProjectStart\PokerProjectStart\PokerProjectStart\PokerProject\bin\Debug\PokerProject.exe
+C:\Users\Anderson\source\repos\Assignment6\PokerProjectStart\PokerProjectStart\PokerProjectStart\PokerProject\bin\Debug\PokerProject.pdb
+C:\Users\Anderson\source\repos\Assignment6\PokerProjectStart\PokerProjectStart\PokerProjectStart\PokerProject\bin\Debug\CardLibrary.dll
+C:\Users\Anderson\source\repos\Assignment6\PokerProjectStart\PokerProjectStart\PokerProjectStart\PokerProject\bin\Debug\CardLibrary.pdb
+C:\Users\Anderson\source\repos\Assignment6\PokerProjectStart\PokerProjectStart\PokerProjectStart\PokerProject\obj\Debug\PokerProject.csprojResolveAssemblyReference.cache
+C:\Users\Anderson\source\repos\Assignment6\PokerProjectStart\PokerProjectStart\PokerProjectStart\PokerProject\obj\Debug\PokerProject.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\source\repos\Assignment6\PokerProjectStart\PokerProjectStart\PokerProjectStart\PokerProject\obj\Debug\PokerProject.exe
+C:\Users\Anderson\source\repos\Assignment6\PokerProjectStart\PokerProjectStart\PokerProjectStart\PokerProject\obj\Debug\PokerProject.pdb
